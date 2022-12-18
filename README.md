@@ -8,5 +8,5 @@ Given Assignment
 Deployed contracts :
 MultisigWallet : 0x392AD13DCa16bd6F46a99aC883C8c647B958a650
 
-AccessControlWallet : 0xaebFdfC6BAe5551F61A61e0E51e34411B52dC77B
+[AccessControlWallet] (https://goerli.etherscan.io/address/0xaebfdfc6bae5551f61a61e0e51e34411b52dc77b) : 0xaebFdfC6BAe5551F61A61e0E51e34411B52dC77B
 
